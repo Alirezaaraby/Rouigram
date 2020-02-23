@@ -499,7 +499,7 @@ namespace Rouigram
 
         private void Seeon_Mirhamedrouiy_ir_Click(object sender, EventArgs e)
         {
-            string link = Textbox.Text;
+            string link = usename_Main.Text;
             System.Diagnostics.Process.Start("https://www.mirhamedrooy.ir/rouigram/get.php?username="+link+"&send=get+%2F+دریافت");            
         }
 
