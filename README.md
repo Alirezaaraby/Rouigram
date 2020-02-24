@@ -11,7 +11,9 @@ First Instagram API For User Id Without Any Registration. [developet by Mohammad
 
 ### Applications For Windows , Adnroid , Linux Platform
 > [Windows Veriosn]("https://github.com/Alirezaaraby/Rouigram/blob/master/setup.exe")
+
 > [Android Version]("https://github.com/Alirezaaraby/Rouigram/blob/master/app-debug.apk")
+
 > [Linux Version]("")
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
