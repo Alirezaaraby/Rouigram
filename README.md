@@ -12,9 +12,9 @@ First Instagram API For User Id Without Any Registration. [developet by Mohammad
   - Without Any Registration
 
 ### Applications For Windows , Adnroid , Linux Platform
-> [WindowsVeriosn]("https://github.com/Alirezaaraby/Rouigram/blob/master/setup.exe")
+> Windows [Veriosn]("https://github.com/Alirezaaraby/Rouigram/blob/master/setup.exe")
 
-> [AndroidVersion]("https://github.com/Alirezaaraby/Rouigram/blob/master/app-debug.apk")
+> Android [Version]("https://github.com/Alirezaaraby/Rouigram/blob/master/app-debug.apk")
 
 > Linux Version
 
