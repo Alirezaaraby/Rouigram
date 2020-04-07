@@ -12,9 +12,9 @@ First Instagram API For User Id Without Any Registration. [developet by Mohammad
   - Without Any Registration
 
 ### Applications For Windows , Adnroid , Linux Platform
-* [Windows Veriosn]("https://github.com/Alirezaaraby/Rouigram/blob/master/setup.exe")
+> [WindowsVeriosn]("https://github.com/Alirezaaraby/Rouigram/blob/master/setup.exe")
 
-* [Android Version]("https://github.com/Alirezaaraby/Rouigram/blob/master/app-debug.apk")
+> [AndroidVersion]("https://github.com/Alirezaaraby/Rouigram/blob/master/app-debug.apk")
 
 > Linux Version
 
@@ -37,3 +37,4 @@ $ pip install rouigram
  - Fix Bugs
  - Make The Verion 1.5 Of Android Version Of Rouigram
  - Add Night Mode
+ 
