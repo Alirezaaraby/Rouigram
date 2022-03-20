@@ -11,7 +11,7 @@ First Instagram API For User Id Without Any Registration. [developet by Mohammad
   - Get The Profile Picture With Hd Quality 
   - Without Any Registration
 
-### Applications For Windows , Adnroid , Linux Platform
+### Applications For Windows , Android , Linux Platform
 > [Windows Veriosn]("setup.exe")
 
 > [Android Version]("app-debug.apk")
